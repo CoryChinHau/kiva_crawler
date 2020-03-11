@@ -1,0 +1,93 @@
+<response>
+	<loans type="list">
+		<loan>
+			<id>1867441</id>
+			<name>Vicent</name>
+			<description>
+				<languages type="list">
+					<language>en</language>
+				</languages>
+				<texts>
+					<en>Vicent is a 47-year-old hardworking married father with six children, living in Kagadi, Uganda. He has been operating a butcher shop and trading in cattle since 1996, a business he started due to the high market demand around his area and also with the aim of looking after his family. He also earns an extra income from farming. &lt;br /&gt;&lt;br /&gt;His dream is to expand his business and complete the construction of his house. Despite the progress, he still faces the challenges of the high prices of the cattle and competition. Vicent intends to use the requested loan to buy more cattle for trade.</en>
+				</texts>
+			</description>
+			<status>funded</status>
+			<funded_amount>1100</funded_amount>
+			<image/>
+			<id>3296790</id>
+			<template_id>1</template_id>
+			<activity>Cattle</activity>
+			<sector>Agriculture</sector>
+			<themes type="list">
+				<theme>Rural Exclusion</theme>
+			</themes>
+			<use>to buy more cattle for trade.</use>
+			<location>
+				<country_code>UG</country_code>
+				<country>Uganda</country>
+				<town>Kagadi</town>
+				<geo>
+					<level>town</level>
+					<pairs>0.940076 30.812564</pairs>
+					<type>point</type>
+				</geo>
+			</location>
+			<partner_id>163</partner_id>
+			<posted_date>2019-12-05T16:50:17Z</posted_date>
+			<planned_expiration_date>2020-01-04T16:50:17Z</planned_expiration_date>
+			<loan_amount>1100</loan_amount>
+			<lender_count>22</lender_count>
+			<bonus_credit_eligibility>0</bonus_credit_eligibility>
+			<tags type="list">
+				<tag>
+					<name>volunteer_pick</name>
+					<id>1</id>
+				</tag>
+				<tag>
+					<name>user_favorite</name>
+					<id>4</id>
+				</tag>
+				<tag>
+					<name>#Animals</name>
+					<id>11</id>
+				</tag>
+				<tag>
+					<name>#Parent</name>
+					<id>16</id>
+				</tag>
+			</tags>
+			<borrowers type="list">
+				<borrower>
+					<first_name>Vicent</first_name>
+					<last_name/>
+					<gender>M</gender>
+					<pictured>1</pictured>
+				</borrower>
+			</borrowers>
+			<terms>
+				<disbursal_date>2019-10-17T07:00:00Z</disbursal_date>
+				<disbursal_currency>UGX</disbursal_currency>
+				<disbursal_amount>4000000</disbursal_amount>
+				<repayment_interval>Monthly</repayment_interval>
+				<repayment_term>12</repayment_term>
+				<loan_amount>1100</loan_amount>
+				<local_payments/>
+				<scheduled_payments/>
+				<loss_liability>
+					<nonpayment>lender</nonpayment>
+					<currency_exchange>shared</currency_exchange>
+					<currency_exchange_coverage_rate>0.1</currency_exchange_coverage_rate>
+				</loss_liability>
+			</terms>
+			<payments/>
+			<funded_date>2019-12-30T23:27:54Z</funded_date>
+			<journal_totals>
+				<entries>0</entries>
+				<bulkentries>0</bulkentries>
+			</journal_totals>
+			<translator>
+				<byline>Zoe Benston</byline>
+				<image/>2684687</translator>
+		</loan>
+	</loans>
+</response>
